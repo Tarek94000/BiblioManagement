@@ -1,0 +1,12 @@
+C:\Users\tarek\OneDrive - Efrei\Bureau\Cours\M1\C#\TP2\Biblio.Domain\bin\Debug\net9.0\Biblio.Domain.deps.json
+C:\Users\tarek\OneDrive - Efrei\Bureau\Cours\M1\C#\TP2\Biblio.Domain\bin\Debug\net9.0\Biblio.Domain.dll
+C:\Users\tarek\OneDrive - Efrei\Bureau\Cours\M1\C#\TP2\Biblio.Domain\bin\Debug\net9.0\Biblio.Domain.pdb
+C:\Users\tarek\OneDrive - Efrei\Bureau\Cours\M1\C#\TP2\Biblio.Domain\obj\Debug\net9.0\Biblio.Domain.csproj.AssemblyReference.cache
+C:\Users\tarek\OneDrive - Efrei\Bureau\Cours\M1\C#\TP2\Biblio.Domain\obj\Debug\net9.0\Biblio.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarek\OneDrive - Efrei\Bureau\Cours\M1\C#\TP2\Biblio.Domain\obj\Debug\net9.0\Biblio.Domain.AssemblyInfoInputs.cache
+C:\Users\tarek\OneDrive - Efrei\Bureau\Cours\M1\C#\TP2\Biblio.Domain\obj\Debug\net9.0\Biblio.Domain.AssemblyInfo.cs
+C:\Users\tarek\OneDrive - Efrei\Bureau\Cours\M1\C#\TP2\Biblio.Domain\obj\Debug\net9.0\Biblio.Domain.csproj.CoreCompileInputs.cache
+C:\Users\tarek\OneDrive - Efrei\Bureau\Cours\M1\C#\TP2\Biblio.Domain\obj\Debug\net9.0\Biblio.Domain.dll
+C:\Users\tarek\OneDrive - Efrei\Bureau\Cours\M1\C#\TP2\Biblio.Domain\obj\Debug\net9.0\refint\Biblio.Domain.dll
+C:\Users\tarek\OneDrive - Efrei\Bureau\Cours\M1\C#\TP2\Biblio.Domain\obj\Debug\net9.0\Biblio.Domain.pdb
+C:\Users\tarek\OneDrive - Efrei\Bureau\Cours\M1\C#\TP2\Biblio.Domain\obj\Debug\net9.0\ref\Biblio.Domain.dll
