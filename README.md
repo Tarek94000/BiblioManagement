@@ -74,7 +74,3 @@ dotnet ef database update
 3. Commitez vos modifications (`git commit -am 'Ajout de la fonctionnalité XYZ'`).
 4. Poussez la branche (`git push origin feature-xyz`).
 5. Ouvrez une pull request.
-
-## Licence
-
-Ce projet est sous la licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
