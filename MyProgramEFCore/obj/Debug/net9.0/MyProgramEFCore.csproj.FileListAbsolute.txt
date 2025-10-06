@@ -27,3 +27,4 @@ C:\Users\tarek\OneDrive - Efrei\Bureau\Cours\M1\C#\TP2\MyProgramEFCore\obj\Debug
 C:\Users\tarek\OneDrive - Efrei\Bureau\Cours\M1\C#\TP2\MyProgramEFCore\obj\Debug\net9.0\MyProgramEFCore.pdb
 C:\Users\tarek\OneDrive - Efrei\Bureau\Cours\M1\C#\TP2\MyProgramEFCore\obj\Debug\net9.0\MyProgramEFCore.genruntimeconfig.cache
 C:\Users\tarek\OneDrive - Efrei\Bureau\Cours\M1\C#\TP2\MyProgramEFCore\obj\Debug\net9.0\ref\MyProgramEFCore.dll
+C:\Users\tarek\OneDrive - Efrei\Bureau\Cours\M1\C#\TP2\MyProgramEFCore\obj\Debug\net9.0\MyProgramEFCore.sourcelink.json

@@ -10,3 +10,4 @@ C:\Users\tarek\OneDrive - Efrei\Bureau\Cours\M1\C#\TP2\Biblio.Domain\obj\Debug\n
 C:\Users\tarek\OneDrive - Efrei\Bureau\Cours\M1\C#\TP2\Biblio.Domain\obj\Debug\net9.0\refint\Biblio.Domain.dll
 C:\Users\tarek\OneDrive - Efrei\Bureau\Cours\M1\C#\TP2\Biblio.Domain\obj\Debug\net9.0\Biblio.Domain.pdb
 C:\Users\tarek\OneDrive - Efrei\Bureau\Cours\M1\C#\TP2\Biblio.Domain\obj\Debug\net9.0\ref\Biblio.Domain.dll
+C:\Users\tarek\OneDrive - Efrei\Bureau\Cours\M1\C#\TP2\Biblio.Domain\obj\Debug\net9.0\Biblio.Domain.sourcelink.json

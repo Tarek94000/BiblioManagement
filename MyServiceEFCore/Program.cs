@@ -1,20 +1,25 @@
 using Biblio.Domain;
 using Microsoft.EntityFrameworkCore;
+using MyServiceEFCore.Services;
+using System.Text.Json.Serialization;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Ajouter services
-builder.Services.AddControllers();
+builder.Services.AddControllers()
+    .AddJsonOptions(x =>
+        x.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles);
+
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-// Base de données en mémoire
 builder.Services.AddDbContext<LibraryContext>(options =>
     options.UseInMemoryDatabase("BiblioDb"));
 
+builder.Services.AddScoped<BorrowingSimulator>();
+
 var app = builder.Build();
 
-// Initialisation des données avec BiblioInitializer
+// Init données
 using (var scope = app.Services.CreateScope())
 {
     var db = scope.ServiceProvider.GetRequiredService<LibraryContext>();

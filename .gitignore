@@ -1,0 +1,62 @@
+# === Build directories ===
+bin/
+obj/
+out/
+Debug/
+Release/
+
+# === IDEs ===
+.vscode/
+.idea/
+.vs/
+
+# === User-specific files ===
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# === Logs and temporary ===
+*.log
+*.tmp
+*.temp
+*.dbmdl
+*.bak
+
+# === Configuration secrets ===
+appsettings.json
+appsettings.*.json
+secrets.json
+config.json
+
+# === Entity Framework Core ===
+#migrations and generated db files
+Migrations/
+*.db
+*.sqlite
+*.sqlite3
+
+# === OS specific ===
+# macOS
+.DS_Store
+# Windows
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# === Misc ===
+# Auto-generated test coverage
+coverage/
+TestResults/
+*.coverage
+*.coveragexml
+
+# === Dotnet tools cache ===
+.nuget/
+*.nupkg
+project.lock.json
+project.assets.json
+
+# === OneDrive / Cloud conflicts ===
+~$*
+*.lnk

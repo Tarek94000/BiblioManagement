@@ -94,3 +94,4 @@ C:\Users\tarek\OneDrive - Efrei\Bureau\Cours\M1\C#\TP2\BiblioManagement.Tests\ob
 C:\Users\tarek\OneDrive - Efrei\Bureau\Cours\M1\C#\TP2\BiblioManagement.Tests\obj\Debug\net9.0\BiblioManagement.Tests.pdb
 C:\Users\tarek\OneDrive - Efrei\Bureau\Cours\M1\C#\TP2\BiblioManagement.Tests\obj\Debug\net9.0\BiblioManagement.Tests.genruntimeconfig.cache
 C:\Users\tarek\OneDrive - Efrei\Bureau\Cours\M1\C#\TP2\BiblioManagement.Tests\obj\Debug\net9.0\ref\BiblioManagement.Tests.dll
+C:\Users\tarek\OneDrive - Efrei\Bureau\Cours\M1\C#\TP2\BiblioManagement.Tests\obj\Debug\net9.0\BiblioManagement.Tests.sourcelink.json

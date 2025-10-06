@@ -153,3 +153,4 @@ C:\Users\tarek\OneDrive - Efrei\Bureau\Cours\M1\C#\TP2\MyServiceEFCore\obj\Debug
 C:\Users\tarek\OneDrive - Efrei\Bureau\Cours\M1\C#\TP2\MyServiceEFCore\obj\Debug\net9.0\MyServiceEFCore.pdb
 C:\Users\tarek\OneDrive - Efrei\Bureau\Cours\M1\C#\TP2\MyServiceEFCore\obj\Debug\net9.0\MyServiceEFCore.genruntimeconfig.cache
 C:\Users\tarek\OneDrive - Efrei\Bureau\Cours\M1\C#\TP2\MyServiceEFCore\obj\Debug\net9.0\ref\MyServiceEFCore.dll
+C:\Users\tarek\OneDrive - Efrei\Bureau\Cours\M1\C#\TP2\MyServiceEFCore\obj\Debug\net9.0\MyServiceEFCore.sourcelink.json

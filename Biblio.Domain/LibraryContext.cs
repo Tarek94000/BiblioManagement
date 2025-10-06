@@ -12,6 +12,9 @@ namespace Biblio.Domain
         public DbSet<Book> Books => Set<Book>();
         public DbSet<Author> Authors => Set<Author>();
         public DbSet<Category> Categories => Set<Category>();
+        public DbSet<User> Users => Set<User>();
+        public DbSet<Borrowing> Borrowings => Set<Borrowing>();
+
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
